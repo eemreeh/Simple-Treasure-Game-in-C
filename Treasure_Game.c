@@ -62,7 +62,7 @@ int main(){
 			printf("\n \t\t\t\t\t\t\t\t\tBUDY YOU CAN NOT GET OUT OF THE MAP GET IN!!!\a\n");
 			goto Naber;
 		}
-		if(x == obx and y == oby){
+		if(x == obx && y == oby){
 			system("cls");
 			for(i = 0;i<15;i++){
 				printf("\a\t\t\t\t\t\t\t\t\t\tYOU WON!!!\n\n");
